@@ -65,10 +65,11 @@ footer h2 {
 
 footer div {
   float: right;
-  line-height: 1.5;
+  line-height: 1.5em;
   text-align: right;
 }
 
 footer a {
   color: #024e76;
 }
+
