@@ -65,8 +65,8 @@ footer {
   background-color: #fce138;
   width: 100%;
   padding: 40px 35px;
-  display: flex;
-  justify-content: space-between;
+flex-wrap: wrap;  
+justify-content: space-between;
 }
 
 footer h3 {
@@ -126,7 +126,8 @@ section {
   padding: 0 100px 20px 100px;
   border-bottom: 3px solid;
   border-color: #fce138;
-  display: inline-block;
+  display: flex;
+  
 }
  
 .intro p {
